@@ -61,10 +61,6 @@ Model LSTM yang digunakan dalam proyek ini terdiri dari 4 lapisan, yaitu:
 
 Lapisan embedding digunakan untuk mengubah input teks menjadi vektor numerik. Lapisan LSTM digunakan untuk mempelajari pola temporal dari sentimen. Lapisan dense digunakan untuk menghasilkan output berupa sentimen.
 
-**Evaluasi Model**
-
-Model LSTM yang telah dibentuk diuji menggunakan data validasi. Akurasi model dihitung dengan menggunakan metrik F1 score.
-
 **Kesimpulan**
 
 Proyek ini berhasil mengembangkan model LSTM yang dapat memprediksi sentimen dari komentar video trailer The Nun 2 dengan akurasi sementara 66%.
